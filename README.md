@@ -1,20 +1,20 @@
 
 ## Title 
   
-  title
+  Title
 
 ## Description 
 
-description
+Description
 
 
 ## Installation
 
-install
+Install
 
 ## Usage 
 
-use
+Use
 
 ## License
 ## Badges
@@ -23,16 +23,20 @@ use
 
 ## Features
 
-features
+Features
 
 ## Contributing
 
-contributors
+Contributors
 
 ## Tests
 
-test
+Test
 
-## Questions
+## GitHub
+
 ksore85
-ksore85
+
+## Email
+
+ksore85@gmail.com
