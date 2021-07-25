@@ -138,7 +138,7 @@ function init() {
   promptUser()
  .then(function(data){
    const readmeContent = generateMarkdown(data)
-fs.writeFileSync('README.md', readmeContent)
+fs.writeFileSync(`./output/SAMPLE-README${Date.now()}.md`, readmeContent)
  })
 }
 // Function call to initialize app

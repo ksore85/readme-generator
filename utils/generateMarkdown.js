@@ -46,7 +46,7 @@ ${renderLicenseBadge(data.license)}
 
 ${data.features}
 
-## Contributing
+## Contributors
 
 ${data.contributing}
 

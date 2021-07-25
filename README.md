@@ -1,40 +1,34 @@
 
 ## Title 
   
-readme-generator
+README-Generator   
 
 ## Description 
 
-This is a description of my project
+A command-line application that can be used to generate README files. 
 
 ## Installation
 
-This is how I install my application
+The README-Generator can be installed by cloning this application to your local device
 
 ## Usage 
 
-This is how I use my application
+After cloning this application to your local device, confirm that you have Node.js installed prior to using this application. Navigate to the root directory of this application on your device. Then, in Terminal, type "node index" followed by ENTER to initiate the README prompts. From here, respond to the prompts. Once all prompts have been answered, a README.md will be generated in this project's /output directory.
 
 ## License
 ## Badges
+you can find the generated README.md in the output folder marked as sample-readme.md
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Features
 
-These are the features of my project
+## Contributors
 
-## Contributing
-
-I contributed to the project
-
-## Tests
-
-This is how I test my application
+Kyle Sorensen 
 
 ## GitHub Username
 
-ksore85
+ksore85 
 
 ## Email
 
