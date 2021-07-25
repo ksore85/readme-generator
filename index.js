@@ -125,7 +125,7 @@ const promptUser = () => {
           if (emailInput) {
             return true;
           } else {
-            console.log('Please enter your github username!');
+            console.log('Please enter your email!');
             return false;
           }
         }
